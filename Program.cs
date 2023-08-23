@@ -28,9 +28,6 @@ namespace Sum_of_3_Number
             // Step 5 – Display the Sum.
             Console.WriteLine("Addition of 3 numbers are " + Sum);
             Console.ReadKey();
-
-
-
         }
     }
 }
